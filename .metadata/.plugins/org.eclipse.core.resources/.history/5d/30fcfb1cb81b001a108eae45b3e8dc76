@@ -1,0 +1,17 @@
+package imageauthorizer;
+
+public class imageaddinfo {
+//This will use specific key to encrypt a message into image for varification
+
+	public static void main(String [] args)
+	{
+		Steganography sg;
+		sg = new Steganography(); 
+		String StringMessage = "hello world";
+		sg.encode("I:\\study\\660project\\images\\","hero2.jpg",StringMessage);
+		System.out.print("1234");
+	}
+	
+	
+	
+}

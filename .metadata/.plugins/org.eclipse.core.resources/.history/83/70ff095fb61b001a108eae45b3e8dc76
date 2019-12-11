@@ -1,0 +1,13 @@
+package imageauthorizer;
+
+public class imageaddinfo {
+//This will use specific key to encrypt a message into image for varification
+//list of possible source
+//1.CNN-0001 2.CCTV---0002 3.GOV---0003 4.SUNY ALBANY---0004	
+//The first four digit will tell software which salt to be used for decryption
+
+	
+	
+	
+	
+}

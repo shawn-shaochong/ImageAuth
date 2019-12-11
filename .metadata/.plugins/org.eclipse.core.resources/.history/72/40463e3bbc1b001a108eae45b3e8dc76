@@ -1,0 +1,14 @@
+package imageauthorizer;
+
+public class imageread {
+//This read the information hidden in picture
+//Then decrypt it 
+	
+	
+
+//System read based on first 4 digit recognization code, if such code does not exsist, return "this is not a AES encrypted image"
+	
+	
+	
+	
+}
